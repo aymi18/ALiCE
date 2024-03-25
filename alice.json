@@ -1,13 +1,13 @@
 {
-  "name": "alice",
-  "prefix": "/",
+  "name": "miya",
+  "prefix": "?",
   "language": "english",
   "timezone": "Asia/Manila",
   "font": 11,
   "listen": false,
   "theme": 19,
   "admin": [
-    "100050635086635"
+    "100095262681590"
   ],
-  "developer": "leiamnash"
+  "developer": "yoya"
 }
